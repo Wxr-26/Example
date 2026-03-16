@@ -6,4 +6,4 @@ This repository is used to demonstrate the standard GitHub workflow for software
 
 | GitHub Username | QMID |
 |---|---|
-| Wxr-26 | 你的QMID |
+| username | QMID |
